@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "FacomFlix",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "FacomFlix",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "fcaqeicsrqrwzg",
+    "password": "bd8eb106388752416a310b8ca07ac2f1b87011a45764b9e3e43b6ea0f53024e1",
+    "database": "drj55vn7c0l36",
+    "host": "ec2-54-156-121-142.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
